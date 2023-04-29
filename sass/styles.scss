@@ -358,8 +358,9 @@ header {
   }
   .member-actions {
     position: absolute;
+    top: 0;
     right: 0;
-    top: 41px;
+    
     transition: all 300ms ease-in-out;
   }
 }
